@@ -2,6 +2,6 @@
 
 let s:V = vital#of("keeprun.vim")
 
-function! s:keeprun#main()
+function! keeprun#main()
   echo 'cool beans'
 endfunction
